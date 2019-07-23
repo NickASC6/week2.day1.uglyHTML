@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(53,53,53)
+}
+
+.top{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    text-align: center;
+    color: whitesmoke;
+}
+.head2{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+.watch_description{
+    font-family: 'Dosis', sans-serif;
+color: whitesmoke;
+
+}
+.watch_container{
+    border: solid 2px #FDEFA6;
+}
+.picture{
+    float: left; 
+}
